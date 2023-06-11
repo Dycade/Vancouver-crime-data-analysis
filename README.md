@@ -5,7 +5,7 @@ This is a juypternotebook report that analyzes the crime data in Vancouver from 
 
 Result Snippets:
 Here are some data visualization snippets:
-![0G 3~AHLMQV$TR(JRAMBP~O](https://github.com/Dycade/Vancouver-crime-data-analysis/assets/85650434/0d3a5c79-4a30-41b0-bb24-cd9b691fd025)
+![B}ZCVCX Q7ORBGJ @F9(BKF](https://github.com/Dycade/Vancouver-crime-data-analysis/assets/85650434/f4ac751f-eb9d-4685-8293-12dade52644a)
 
 ![B}ZCVCX Q7ORBGJ @F9(BKF](https://github.com/Dycade/Vancouver-crime-data-analysis/assets/85650434/fb4b2a5d-c47f-471f-8d27-35adfb0bd253)
 
